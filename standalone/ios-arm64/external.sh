@@ -45,7 +45,7 @@ cd tmp
 
 #
 # build freeimage and copy to external
-#
+##
 
 CACHE_NAME="FreeImage-${FREEIMAGE_VERSION}"
 
